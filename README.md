@@ -4,7 +4,7 @@ A modern, responsive business website for **TCOMIX**, a fictional Tea & Coffee P
 
 ## 🌐 Live Demo
 
-https://tcomixweb.netlify.app/
+https://dhirajmarathe2007.github.io/tcomix-business-website/
 
 ---
 
